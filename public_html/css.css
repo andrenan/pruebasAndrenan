@@ -9,15 +9,15 @@ body{
 }
 
 header{
-    background-image: url(flywheel.jpg);
+    background-image: url(5.jpeg);
     text-align: center;
     padding-bottom: 15px;
-    background-size: 100%;
+    background-size: 50%;
     height: 175px;
 }
 
 h1{
-    color: #ffffff;
+    color: #912020;
 }
 
 nav{
@@ -34,7 +34,7 @@ section{
     width:20%;
     height:800px;
     display:block;
-    background: darkolivegreen;
+    background: rgb(170, 73, 118);
 
 
 }
